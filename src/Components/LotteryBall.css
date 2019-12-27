@@ -1,0 +1,11 @@
+.lotteryBall{  
+    display: flex;  
+    background: rgb(180, 69, 175);
+    font-size: 3rem;
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    justify-content: center;
+    align-items: center;     
+    margin: 1rem 1rem 2rem 1rem;    
+}
